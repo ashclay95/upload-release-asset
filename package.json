@@ -21,20 +21,20 @@
   "author": "GitHub",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.0.0",
+    "@actions/core": "^1.9.1",
     "@actions/exec": "^1.0.0",
-    "@actions/github": "^1.0.0"
+    "@actions/github": "^9.1.1"
   },
   "devDependencies": {
     "@zeit/ncc": "^0.20.4",
-    "eslint": "^5.13.0",
-    "eslint-config-airbnb": "^17.1.0",
+    "eslint": "^10.10.0",
+    "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^3.6.0",
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-prettier": "^2.7.0",
     "eslint-plugin-react": "^7.12.4",
-    "jest": "^24.8.0",
+    "jest": "^30.5.1",
     "prettier": "^1.16.4",
     "husky": "^3.0.5"
   },
